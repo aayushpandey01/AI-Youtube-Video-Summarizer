@@ -52,7 +52,7 @@ This approach ensures efficient processing of long videos.
 
 ## ⚙️ Setup & Installation
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/ai-youtube-summarizer.git
 cd ai-youtube-summarizer
