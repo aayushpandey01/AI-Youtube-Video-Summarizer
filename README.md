@@ -1,4 +1,4 @@
-# 🎥 AI YouTube Video Summarizer
+#  AI YouTube Video Summarizer
 
 An **AI powered YouTube Video Summarizer** that converts long YouTube videos into concise, easy-to-understand summaries using **Generative AI and transformer based models**.
 
